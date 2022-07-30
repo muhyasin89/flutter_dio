@@ -1,0 +1,6 @@
+
+
+@JsonSerializable()
+class Article{
+
+}
