@@ -1,6 +1,0 @@
-
-
-@JsonSerializable()
-class Article{
-
-}
